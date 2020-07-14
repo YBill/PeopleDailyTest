@@ -1,0 +1,2 @@
+rootProject.name='PeopleDailyTest'
+include ':app'
